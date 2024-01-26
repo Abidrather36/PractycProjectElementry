@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fnsB7MdqTBGCKjqORsSbagNUZwGoHe77fPlqXdXGulzfyUDvZrpO/39h7Jz1F93a2Bg9GQn2f/MFIhit9C3MEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Documents\\DotNet\\Practyc\\Practyc.Application\\Practyc.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Infrastructure\bin\Debug\net6.0\Practyc.Infrastructure.deps.json
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Infrastructure\bin\Debug\net6.0\Practyc.Infrastructure.dll
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Infrastructure\bin\Debug\net6.0\Practyc.Infrastructure.pdb
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Infrastructure\bin\Debug\net6.0\Practyc.Application.dll
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Infrastructure\bin\Debug\net6.0\Practyc.Domain.dll
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Infrastructure\bin\Debug\net6.0\Practyc.Application.pdb
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Infrastructure\bin\Debug\net6.0\Practyc.Domain.pdb
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Infrastructure\obj\Debug\net6.0\Practyc.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Infrastructure\obj\Debug\net6.0\Practyc.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Infrastructure\obj\Debug\net6.0\Practyc.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Infrastructure\obj\Debug\net6.0\Practyc.Infrastructure.AssemblyInfo.cs
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Infrastructure\obj\Debug\net6.0\Practyc.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Infrastructure\obj\Debug\net6.0\Practyc.Infrastructure.csproj.CopyComplete
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Infrastructure\obj\Debug\net6.0\Practyc.Infrastructure.dll
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Infrastructure\obj\Debug\net6.0\refint\Practyc.Infrastructure.dll
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Infrastructure\obj\Debug\net6.0\Practyc.Infrastructure.pdb
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Infrastructure\obj\Debug\net6.0\ref\Practyc.Infrastructure.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Application\bin\Debug\net6.0\Practyc.Application.deps.json
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Application\bin\Debug\net6.0\Practyc.Application.dll
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Application\bin\Debug\net6.0\Practyc.Application.pdb
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Application\bin\Debug\net6.0\Practyc.Domain.dll
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Application\bin\Debug\net6.0\Practyc.Domain.pdb
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Application\obj\Debug\net6.0\Practyc.Application.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Application\obj\Debug\net6.0\Practyc.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Application\obj\Debug\net6.0\Practyc.Application.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Application\obj\Debug\net6.0\Practyc.Application.AssemblyInfo.cs
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Application\obj\Debug\net6.0\Practyc.Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Application\obj\Debug\net6.0\Practyc.Application.csproj.CopyComplete
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Application\obj\Debug\net6.0\Practyc.Application.dll
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Application\obj\Debug\net6.0\refint\Practyc.Application.dll
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Application\obj\Debug\net6.0\Practyc.Application.pdb
+C:\Users\HP\Documents\DotNet\Practyc\Practyc.Application\obj\Debug\net6.0\ref\Practyc.Application.dll
